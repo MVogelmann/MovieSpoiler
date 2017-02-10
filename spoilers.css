@@ -1,0 +1,16 @@
+
+body {
+  background-color: black;
+}
+
+div {
+  color: white;
+}
+
+span.spoiler-protect {
+  background-color: cyan;
+  color: cyan;
+}
+span:hover{
+  background-color: black;
+}
